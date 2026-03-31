@@ -19,7 +19,7 @@
 
 ## Table of Contents
 
-- [How It Became Public](#how-it-became-public)
+- [How It Became Public!](#how-it-became-public)
 - [What Is Claude Code?](#what-is-claude-code)
 - [Documentation](#-documentation)
 - [Explore with MCP Server](#-explore-with-mcp-server)
